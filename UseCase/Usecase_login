@@ -1,0 +1,17 @@
+Use Case : Login
+1.Description:
+User will provide credentials to login into system.
+2.Trigger:
+User invokes login protocol.
+3.Preconditions:
+User has a registered account.
+4.Steps of Execution:
+	4.1 User invokes a login protocol.
+	4.2 User provides credentials.
+	4.3 System checks for the user.
+	4.4 User logs into his account.
+5.Success:
+	User logs into his account.
+6.Faliure:
+	6.1 User does not have an account.
+	6.2 Credentials does not match to the registered account.
