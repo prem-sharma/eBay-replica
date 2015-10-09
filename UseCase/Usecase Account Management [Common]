@@ -14,6 +14,6 @@ User invokes account management protocol.
 	4.5 Information regarding user is updated in the database.
 5.Success:
 	Information regarding user is updated in the database.
-6.Faliure:
+6.Failure:
 	6.1 Connection resets midway between update.
 	6.2 Credentials does not match to the registered account.
