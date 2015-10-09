@@ -1,0 +1,19 @@
+Use Case: Account Management
+1.Description:
+User updates his account information such as login credentials, address and contact information.
+2.Trigger:
+User invokes account management protocol.
+3.Preconditions:
+3.1 User has a registered account.
+3.2 User is logged into his account.
+4.Steps of Execution:
+	4.1 User invokes account management protocol.
+	4.2 User updates his information.
+	4.3 System asks for Login credentials.
+	4.4 System updates the information in the database.
+	4.5 Information regarding user is updated in the database.
+5.Success:
+	Information regarding user is updated in the database.
+6.Faliure:
+	6.1 Connection resets midway between update.
+	6.2 Credentials does not match to the registered account.
