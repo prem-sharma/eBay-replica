@@ -1,0 +1,25 @@
+Buyer Use case For Viewing Catalogue.
+Description: 
+The buyer can view the entire catalogue of products being displayed by categories.
+Precondition: 
+The user loads the Landing Page of the website.
+Trigger: 
+1: The user clicks on Search Bar.
+2: The user clicks to View a Product being displayed.
+3: The user clicks on Log in.
+Steps: 
+1: The entire catalogue of items arranged according to departments (like electronics, home, clothes etc.)
+2: The user can browse the department-wise catalogues by scrolling.
+3: The user can click on individual products.
+3.1: Upon click redirect to the product page.
+3.2 Move to view product use case.
+4: The user can click on the search bar.
+4.1 Take the entered string as the query variable.
+4.2 Move to Search use case.
+5: The user clicks on the Log in button.
+5.1 Upon click redirect to the Login form.
+5.2 Move to Log In use case.
+Postcondition: 
+Navigate to subsequent page.
+Failure: 
+Non response on clicking or scrolling or any other kind of User interaction.
