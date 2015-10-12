@@ -14,4 +14,8 @@ Seller : A seller who makes products available for sale on the website.
 Guest : A user who does not have a registered account on the website.
 
 Buyer : A customer who has a registered account on the website.
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------
