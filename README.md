@@ -21,3 +21,5 @@ Buyer : A customer who has a registered account on the website.
 -------------------------------------------------------------------------------------------------------------------------------
 Everyone check this out:
 http://www.uml-diagrams.org/examples/online-shopping-use-case-diagram-example.html
+
+Check use case diagrams
